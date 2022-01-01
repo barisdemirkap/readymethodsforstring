@@ -42,8 +42,36 @@ namespace readymethodsofstring
         //PadLeft , PadRight
 
         Console.WriteLine(variable + varibale2.PadLeft(30)) ;
+        Console.WriteLine(variable + varibale2.PadLeft(30,'*')) ;
+        Console.WriteLine(variable.PadRight(50) + varibale2) ;
+        Console.WriteLine(variable.PadRight(50, '-') + varibale2) ;
 
+        //Remove
+
+        Console.WriteLine(variable.Remove(10)) ;
+        Console.WriteLine(variable.Remove(5,3)) ;
+        Console.WriteLine(variable.Remove(0,1)) ;
+
+        //Replace 
+
+        Console.WriteLine(variable.Replace("CSharp" , "C#") ) ;
+        Console.WriteLine(variable.Replace(" " , "+") ) ;
+
+        //Split
+
+        Console.WriteLine(variable.Split(' ')[1]) ;
+
+        //Substring
+        Console.WriteLine(variable.Substring(4)) ;
+        Console.WriteLine(variable.Substring(4,6)) ;
         
+
+
+
+
+
+
+
         
         
 
