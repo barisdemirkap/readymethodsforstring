@@ -7,7 +7,7 @@ namespace readymethodsofstring
         {   
 
         string variable = "Lesson Csharp, Welcome" ;
-        string varibale2 = "Csharp Class" ;
+        string varibale2 = "Csharp" ;
         //Length ;
         Console.WriteLine(variable.Length) ;
 
@@ -31,7 +31,22 @@ namespace readymethodsofstring
 
         //IndexOf
 
-        Console.WriteLine(variable.IndexOf);
+        Console.WriteLine(variable.IndexOf("CS"));
+        Console.WriteLine(variable.IndexOf("Baris"));
+        Console.WriteLine(variable.LastIndexOf("i"));
+
+        // Insert
+
+        Console.WriteLine(variable.Insert(0, "Hello"));
+        
+        //PadLeft , PadRight
+
+        Console.WriteLine(variable + varibale2.PadLeft(30)) ;
+
+        
+        
+        
+
         
     
             }
