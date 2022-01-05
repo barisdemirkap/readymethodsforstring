@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90554\\Desktop\\Projects\\readymethodsforstring\\readymethodsforstring.csproj": {}
+    "C:\\Users\\90554\\Desktop\\Projects\\Patika.dev\\readymethodsforstring\\readymethodsforstring.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90554\\Desktop\\Projects\\readymethodsforstring\\readymethodsforstring.csproj": {
+    "C:\\Users\\90554\\Desktop\\Projects\\Patika.dev\\readymethodsforstring\\readymethodsforstring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90554\\Desktop\\Projects\\readymethodsforstring\\readymethodsforstring.csproj",
+        "projectUniqueName": "C:\\Users\\90554\\Desktop\\Projects\\Patika.dev\\readymethodsforstring\\readymethodsforstring.csproj",
         "projectName": "readymethodsforstring",
-        "projectPath": "C:\\Users\\90554\\Desktop\\Projects\\readymethodsforstring\\readymethodsforstring.csproj",
+        "projectPath": "C:\\Users\\90554\\Desktop\\Projects\\Patika.dev\\readymethodsforstring\\readymethodsforstring.csproj",
         "packagesPath": "C:\\Users\\90554\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90554\\Desktop\\Projects\\readymethodsforstring\\obj\\",
+        "outputPath": "C:\\Users\\90554\\Desktop\\Projects\\Patika.dev\\readymethodsforstring\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\90554\\AppData\\Roaming\\NuGet\\NuGet.Config"
